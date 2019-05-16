@@ -2,7 +2,7 @@
 
 Intel has been dropped XTU support for certain CPUs (Such as 8550u, 8250u, and etc), resulting installer to reject installation process with **'unsupported platform_error'**. However, in most cases, this does not mean your hardware is actually incompatible with XTU. 
 
-Therefore, XTU can still be installed with [simple trick by Kalle Lilja](https://kallelilja.com/2018/12/workaround-xtu-attempted-to-install-on-an-unsupported-platform/), and used for CPU tweaks, such as undervolting.
+Therefore, after installing XTU with [simple trick by Kalle Lilja](https://kallelilja.com/2018/12/workaround-xtu-attempted-to-install-on-an-unsupported-platform/), XTU can still be used for CPU tweaks, such as undervolting.
 
 Intel XTU Install Helper is designed to automate such procedure, providing an easier way to install XTU on unsupported platforms.
 
