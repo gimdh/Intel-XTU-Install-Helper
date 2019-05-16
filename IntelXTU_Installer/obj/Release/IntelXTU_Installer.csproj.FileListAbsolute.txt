@@ -1,0 +1,7 @@
+C:\Users\gimdh\source\repos\IntelXTU_Installer\IntelXTU_Installer\bin\Release\IntelXTU_Installer.exe.config
+C:\Users\gimdh\source\repos\IntelXTU_Installer\IntelXTU_Installer\bin\Release\IntelXTU_Installer.exe
+C:\Users\gimdh\source\repos\IntelXTU_Installer\IntelXTU_Installer\bin\Release\IntelXTU_Installer.pdb
+C:\Users\gimdh\source\repos\IntelXTU_Installer\IntelXTU_Installer\obj\Release\IntelXTU_Installer.csprojAssemblyReference.cache
+C:\Users\gimdh\source\repos\IntelXTU_Installer\IntelXTU_Installer\obj\Release\IntelXTU_Installer.csproj.CoreCompileInputs.cache
+C:\Users\gimdh\source\repos\IntelXTU_Installer\IntelXTU_Installer\obj\Release\IntelXTU_Installer.exe
+C:\Users\gimdh\source\repos\IntelXTU_Installer\IntelXTU_Installer\obj\Release\IntelXTU_Installer.pdb

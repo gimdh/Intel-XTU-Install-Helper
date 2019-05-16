@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelXTU_Installer", "IntelXTU_Installer\IntelXTU_Installer.csproj", "{0CA2728A-212A-430E-82E5-5D819EEC75DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA2728A-212A-430E-82E5-5D819EEC75DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA2728A-212A-430E-82E5-5D819EEC75DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA2728A-212A-430E-82E5-5D819EEC75DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA2728A-212A-430E-82E5-5D819EEC75DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6530F5C1-ACDB-441E-B6FD-EF7A78B047FF}
+	EndGlobalSection
+EndGlobal
