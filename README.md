@@ -30,7 +30,7 @@ If any error occurs, please submit a new issue with created **error.log** file.
 
 **Then**
 - Run **IntelXTU_Install_Helper.exe XTUSetup.exe** in cmd (or PowrShell).
-	**or**
+**or**
 - Open **IntelXTU_Install_Helper.exe** by double-click.
 - Program should prompt **Please enter the file name of proper XTU Installer:**
 - Type **XTUSetup.exe** then press enter.
