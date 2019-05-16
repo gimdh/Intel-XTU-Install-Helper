@@ -57,6 +57,7 @@ namespace IntelXTU_Installer
             }
             catch (Exception e)
             {
+                Console.WriteLine("Something went wrong. Please submit new issue at  https://github.com/gimdh/Intel-XTU-Installer/issues  with generated error.log file.");
                 Logger(e);
                 return;
             }
